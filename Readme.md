@@ -105,6 +105,7 @@
 # ENGLAND
 [92 News UK](https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8)
 
+
 #EXTINF:-1 tvg-name="Arise News" tvg-id="" group-title="UK" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2013/02/logo_arise.png",Arise News
 http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbcalba.uk" tvg-name="BBC ALBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/BBC_Alba.png" group-title="UK",BBC ALBA
